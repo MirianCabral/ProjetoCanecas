@@ -24,7 +24,7 @@ O C4 Model consiste em quatro camadas hierárquicas que vão do mais abstrato ao
 3. Componentes: detalhamento interno de cada container, mostrando suas partes constituintes.
 4. Código: implementação detalhada usando UML para representar classes e suas relações.
 ### Diagrama de Contexto
-<img alt="Premissa do projeto" src = "image/diagrama_contexto.png">
+<img width = "500" heigth = "500" alt="Diagrama de Contexto" src = "image/diagrama_contexto.png">
 
 ### Diagrama de Container
-<img alt="Premissa do projeto" src = "image/diagrama_container.png">
+<img width ="600" heigth = "500" alt="Diagrama de container" src = "image/diagrama_container.png">
