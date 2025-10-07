@@ -9,7 +9,7 @@ Requisitos funcionais: Conseguir fazer um pedido de caneca, colocar no carrinho 
 
 Requisitos não funcionais: Usabilidade e confiabilidade da aplicação. Usabilidade como foi dito, ser uma aplicação responsiva para o usuário acessar o website de uma forma facilitada para conseguir acessar pelo celular ou por um browser. Confiabilidade precisa garantir ao usuário que o pagamento não foi perdido e que não será cobrado 2x.
 ### 4º passo: Premissa do projeto.
-Imagem
+<img width="562" height="293" alt="Premissa do projeto" src = "image/premissa.png">
 ### 5º Passo: System design.
 Como um desenvolvedor *full-stack*, após levantar os requisitos do sistema, entramos em uma etapa técnica mais complexa, onde os componentes e suas interações devem ser descritos, geralmente em forma de diagrama ou documentação escrita. Essa descrição é comumente chamada de *System Design*, ou projeto de sistema (em tradução livre).
 
@@ -23,6 +23,7 @@ O C4 Model consiste em quatro camadas hierárquicas que vão do mais abstrato ao
 3. Componentes: detalhamento interno de cada container, mostrando suas partes constituintes.
 4. Código: implementação detalhada usando UML para representar classes e suas relações.
 ### Diagrama de Contexto
-Imagem
+<img alt="Premissa do projeto" src = "image/diagrama_contexto.png">
+
 ### Diagrama de Container
-imagem
+<img alt="Premissa do projeto" src = "image/diagrama_container.png">
